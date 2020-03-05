@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,MACI,oBAAqB,CACrB,WAAW,CACX,YAAY,CACZ,iBACJ","file":"test1.4ba95b73.css","sourceRoot":"..","sourcesContent":["#wrap {\n    border: solid 1px red;\n    width:20rem;\n    height:30rem;\n    overflow-y:scroll\n}\n"]}

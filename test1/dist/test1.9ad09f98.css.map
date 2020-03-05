@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"test1.9ad09f98.css","sourceRoot":"..","sourcesContent":["#wrap {\n    border: solid 1px red;\n    width:100vw;\n    height:30rem;\n    overflow-y:scroll;\n    box-sizing:border-box;\n\n}\n"]}
